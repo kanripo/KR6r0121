@@ -1,0 +1,2 @@
+000-0867c04	TKD 32-0369b	buddhist/K-koreana/32-tif/0300-0399/32_0369_B.TIF
+000-0867c24	TKD 32-0369c	buddhist/K-koreana/32-tif/0300-0399/32_0369_C.TIF
