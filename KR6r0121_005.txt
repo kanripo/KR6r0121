@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:22.680713
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:21
 #+TITLE: 大唐西域記
 #+PROPERTY: CBETA_ID T51n2087
 #+PROPERTY: ID KR6r0121
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2087
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6r0121_T_000-0867b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0121_T_005-0893c> ¶
 #+PROPERTY: JUAN 5
@@ -68,7 +68,7 @@
 
 今王，本吠奢種也，字曷利沙伐彈那(唐言喜增)。君¶
 臨有土，二世三王。父字波羅羯羅伐彈那¶
-(唐言作光增)。兄字曷邏闍伐彈那(唐言王增)。王增以長¶
+(唐言作光增)，兄字曷邏闍伐彈那(唐言王增)。王增以長¶
 嗣位，以德治政。時東印度羯羅拏蘇伐剌那¶
 (唐言金耳)國設賞迦王(唐言月)，每謂臣曰：「隣有賢主，國¶
 之禍也。」於是誘請，會而害之。人既失君，國¶
