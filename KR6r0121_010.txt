@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
-<pb:KR6r0121_SBCK_009-26b>
-
 <pb:KR6r0121_SBCK_010-1a>
 大唐西域記卷第十　疑
 　¶¶　　三蔵法師玄裝奉詔譯¶大揔持寺沙門辯機撰¶

@@ -4,9 +4,8 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
-<pb:KR6r0121_SBCK_007-19b>
-
 <pb:KR6r0121_SBCK_008-1a>
+# SB1_0303-039.png
 大唐西域記卷第八　轉¶¶
 　　　　　三藏法師　玄奘奉　詔譯¶
 　　　　　大揔持寺沙門　辯機撰¶

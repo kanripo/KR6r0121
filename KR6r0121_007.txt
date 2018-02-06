@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
-<pb:KR6r0121_SBCK_006-22b>
-
 <pb:KR6r0121_SBCK_007-1a>
 大唐西域記卷第七　轉¶¶
 　　　　　三蔵法師　玄奘奉　詔譯¶

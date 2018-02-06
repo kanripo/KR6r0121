@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION T
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
-
-
 <pb:KR6r0121_SBCK_005-1a>
 大唐西域記卷第五　轉¶¶
 　　　　　三藏法師　&KR0007;奘奉　詔譯¶
